@@ -1,0 +1,37 @@
+﻿.btn-link{
+    color:white;                
+}
+p {
+    color:white;
+    text-align: justify;
+}
+.clear{
+    clear: both;
+}
+.img-padding{
+    padding: 20px 20px 20px 20px
+}
+.img-padding-left{
+    padding: 0 0 20px 35px;
+}
+.img-padding-right{
+    padding: 0 35px 20px 0;
+}
+#right{
+    text-align: right;
+}
+h2 {
+    color: white;
+}
+hr {
+    background: white;
+}
+i p {
+    text-align: center;
+}
+ul{
+    color: white
+}
+h3{
+    color: white 
+}
